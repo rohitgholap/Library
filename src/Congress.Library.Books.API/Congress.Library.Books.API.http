@@ -1,0 +1,6 @@
+@Congress.Library.Books.API_HostAddress = http://localhost:5297
+
+GET {{Congress.Library.Books.API_HostAddress}}/books/
+Accept: application/json
+
+###
